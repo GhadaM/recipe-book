@@ -2,7 +2,7 @@ Simple Pancakes
 
 Ingredients
 
-1 cup flour
+2 cup flour
 2 egg
 1 cup milk
 1 tbsp sugar
