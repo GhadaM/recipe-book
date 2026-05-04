@@ -2,7 +2,7 @@ Simple Pancakes
 
 Ingredients
 
-1 cup flour
+1 cup almond flour
 2 egg
 1 cup milk
 1 tbsp sugar
